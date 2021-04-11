@@ -4,5 +4,3 @@ Hi Humans!
 
 Hubot here, I like Node.js and Coffeescript [that's what I'm made of!].
 I've had tacos on the moon and find them far super ior to Earth tacos.
-
-我第二次来更新了。
